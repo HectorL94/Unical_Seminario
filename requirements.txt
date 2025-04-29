@@ -1,0 +1,9 @@
+numpy
+pandas
+openpyxl
+geopandas 
+matplotlib
+tqdm
+plotly
+altair
+nbformat>=4.2.0 
